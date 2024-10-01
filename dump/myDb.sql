@@ -10,7 +10,7 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `Modulo` (
   `id` int(11) NOT NULL,
-  `nombre` varchar(50) NOT NULL
+  `nombre` varchar(50) NOT NULL,
   `abreviatura` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
