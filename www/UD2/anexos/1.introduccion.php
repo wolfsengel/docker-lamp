@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome to LAMP Infrastructure</title>
+        <title>DWCS UD2. Boletín 1. Solución</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     </head>
@@ -39,7 +39,7 @@
                 <li>$92: no puede empezar por números</li>
                 <li>$*143idade: * no es un caracter válido</li>
             </ul>
-            </br>
+            <br />
 
             <h3>Tarea 3. Funciones para trabajar con tipos de datos.</h3>
 
