@@ -28,11 +28,11 @@
                         <tr>
                             <td><a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/index.html" target="_blank">Unidad 2</a></td>
                             <td>
-                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/8.anexos/1.tarea_ud02_introduccion/index.html" target="_blank">Boletín 1. Introducción</a><br />
-                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/8.anexos/2.tarea_ud02_arrays_estructuras/index.html" target="_blank">Boletín 2. Arrays y estructuras de control</a><br />
-                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/8.anexos/3.tarea_ud02_formularios/index.html" target="_blank">Boletín 3. Formularios</a><br />
-                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/8.anexos/4.tarea_ud02_funciones/index.html" target="_blank">Boletín 4. Funciones</a><br />
-                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/8.anexos/5.tarea_ud02_librerias/index.html" target="_blank">Boletín 5. Librerías</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/1.tarea_ud02_introduccion/index.html" target="_blank">Boletín 1. Introducción</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/2.tarea_ud02_arrays_estructuras/index.html" target="_blank">Boletín 2. Arrays y estructuras de control</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/3.tarea_ud02_formularios/index.html" target="_blank">Boletín 3. Formularios</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/4.tarea_ud02_funciones/index.html" target="_blank">Boletín 4. Funciones</a><br />
+                                <a href="https://manuais.pages.iessanclemente.net/plantillas/daw/dwcs-d/ud02/9.anexos/5.tarea_ud02_librerias/index.html" target="_blank">Boletín 5. Librerías</a><br />
                                 <a href="#">Tarea</a>
                             </td>
                             <td>
