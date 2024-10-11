@@ -56,11 +56,14 @@
                 
                 function imprimirSalidaPuestaSol($latitud = 42.8782, $longitud = -8.5448)
                 {
-                    $salidaSol = date_sunrise(time(), SUNFUNCS_RET_STRING, $latitud, $longitud, 90, date('Z'));
-                    $puestaSol = date_sunset(time(), SUNFUNCS_RET_STRING, $latitud, $longitud, 90, date('Z'));
+                    $info = date_sun_info(time(), $latitud, $longitud);
+                    /*foreach ($info as $key => $val)
+                    {
+                        echo "$key: " . date("H:i:s", $val) . '<br>';
+                    }*/
                 
-                    echo "Hora de salida del sol: $salidaSol<br>";
-                    echo "Hora de puesta del sol: $puestaSol<br>";
+                    echo 'Hora de salida del sol: ' . date("H:i:s", $info['sunrise']) . '<br>';
+                    echo 'Hora de puesta del sol: ' . date("H:i:s", $info['sunset']) . '<br>';
                 }
                 
                 echo '<h2>Resultados</h2>';
